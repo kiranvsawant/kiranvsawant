@@ -28,23 +28,34 @@ I combine strategic IT leadership with hands-on technical expertise to build sec
 
 🔹 Interested in enterprise security architecture, IT governance and digital transformation.
 
-🏆 Certifications
+🏆 Certifications & Professional Training
 
-CISA – Certified Information Systems Auditor
+• CISA – Certified Information Systems Auditor
 
-Post Graduate Certification in Ethical Hacking – IIT Roorkee
+• CISM – Certified Information Security Manager (In Preparation)
 
-MCSA – Windows Server with Exchange Server
+• CEH – Certified Ethical Hacking (In Preparation)
 
-RHCE – Red Hat Certified Engineer
+• Post Graduate Certification in Cybersecurity and Ethical Hacking (CEH) – IIT Roorkee
 
-CCNA – Cisco Certified Network Associate
+• MCSA – Windows Server with Exchange Server | RHCE – Red Hat Certified Engineer
+
+• CCNA – Cisco Certified Network Associate
+
+• CISSP – Certified Information Systems Security Professional
+
+• CCSP – Certified Cloud Security Professional
+
+• ISO/IEC 27001:2022 Lead Implementer | ITGC | ITIL | ITSM
+
+• SOC | DFIR & Malware Analysis | OSCP | Red Teaming & Purple Teaming
+
+• Microsoft Azure Security Engineer (AZ-500) | Azure Solutions & Office 365 Administrator (70-533)
+
 
 🎯 Currently Learning
 
 CISM – Certified Information Security Manager
-
-CEH – Certified Ethical Hacker
 
 Enterprise IT Governance and COBIT
 
